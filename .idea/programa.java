@@ -4,7 +4,7 @@ public class programa{
 
         String sistema = System.getProperty("os.name").toLowerCase();/*Nos va a devolver el nombre del sistema operativo*/
 
-        boolean
+
 
 
 
